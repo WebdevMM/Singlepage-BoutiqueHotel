@@ -40,5 +40,5 @@ To view this project locally, simply clone the repository and open the index.htm
 
 Bash
 
-git clone https://github.com/yourusername/domus-aurea-website.git
+git clone [https://github.com/yourusername/domus-aurea-website.git](https://github.com/WebdevMM/Singlepage-BoutiqueHotel.git)
 cd domus-aurea-website
